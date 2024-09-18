@@ -1,4 +1,7 @@
 # Ex-2 IMPLEMENTATION-OF-SYMBOL-TABLE
+# DATE : 18.09.2024
+# NAME : MOPURI ANKITHA
+# REGISTER NUMBER: 212223040117
 # AIM :
 ## To write a C program to implement a symbol table.
 # ALGORITHM
